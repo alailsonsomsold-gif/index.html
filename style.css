@@ -35,8 +35,11 @@ header {
     justify-content: space-between;
     padding: 60px 5%;
     min-height: 80vh;
-}
-
+    /* Linhas novas adicionadas abaixo */
+    background-image: url('banner.jpg');
+    background-size: cover;
+    background-position: center;
+    }
 .hero-content {
     max-width: 50%;
 }
