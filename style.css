@@ -119,7 +119,7 @@ footer {
 }
 
 /* Responsividade para Celular */
-@media (max-width: 768px) {
+@media (max-width: 768px) {5548988553985
     .hero {
         flex-direction: column;
         text-align: center;
