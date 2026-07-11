@@ -118,7 +118,7 @@ footer {
     background-color: #0b0b0b;
 }
 
-/* Responsividade para Celular */5548988553985
+/* Responsividade para Celular */
 @media (max-width: 768px) {
     .hero {
         flex-direction: column;
